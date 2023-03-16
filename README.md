@@ -8,3 +8,6 @@ What was used:
 - addEventListener;
 - filter;
 - progress bar.
+
+
+### reuploaded from old folder - that's why not much commits :)
